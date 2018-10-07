@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Subreddit Flair Statistics</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="index.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="index.js"></script>
+	</head>
+	<body>
+		<div class="main">
+			<noscript>
+				<div class="margintop">
+					<b>Please enable JavaScript.</b>
+				</div>
+			</noscript>
+			<table width="100%">
+				<tr>
+					<td width="25%">Subreddit:</td>
+					<td id="snapshot-label" style="display: none;">Month:</td>
+				</tr>
+				<tr>
+					<td>
+						<select id="subreddit-select" disabled>
+							<option>Loading...</option>
+						</select>
+					</td>
+					<td id="snapshot-content" style="display: none;">
+						<select id="snapshot-select"></select>
+					</td>
+				</tr>
+			</table>
+			<div class="stats margintop" id="stats-loading">
+				<table>
+					<tr>
+						<td class="stats-loading">
+							<img src="loading.svg" onerror="this.src='loading.gif'">
+						</td>
+						<td class="stats-loading" style="padding-left: 5px;">
+							Loading statistics, this can take a while...
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div class="stats" id="stats">
+				<div class="margintop">
+					Sample size of <b id="stats-sample"></b> users, or <b id="stats-sample-subs-pct"></b><b>%</b> of the <b id="stats-sample-subs"></b> subscribers at the time.<br/>
+					<small>(Note: users can set flairs without subscribing)</small><br/>
+					Out of this sample, <b id="stats-flaired"></b> users (<b id="stats-flaired-pct"></b><b>%</b>) have a flair.
+				</div>
+				<div class="margintop">
+					Filter by category: <select id="category-select"></select><br/>
+					<div id="stats-piechart-show-container"><a href="#" id="stats-piechart-show" data-toggle="Hide category pie chart">View category pie chart</a></div>
+				</div>
+				<div class="margintop" id="stats-piechart"></div>
+				<div class="margintop">
+					<table id="xflair-table" width="100%"></table>
+				</div>
+			</div>
+		</div>
+		<div class="credits">
+			Developed by <a href="https://www.reddit.com/user/RichardG867">/u/RichardG867</a> using Python, SQLite, jQuery, <a href="http://www.flotcharts.org/">Flot</a>, <a href="https://github.com/krzysu/flot.tooltip">flot.tooltip</a>
+		</div>
+	</body>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/excanvas.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.pie.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/flot.tooltip/0.9.0/jquery.flot.tooltip.min.js"></script>
+</html>
