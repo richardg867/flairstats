@@ -49,6 +49,25 @@ td.stats-loading > * {
 	padding-top: .3em;
 }
 
+/* flair search */
+.xflair-search {
+	width: 100%;
+	margin-bottom: 10px;
+}
+.xflair-search-cell > * {
+	vertical-align: middle;
+}
+#xflair-search-input-cell {
+	width: 100%;
+}
+.xflair-search-input {
+	width: 100%;
+}
+#xflair-search-loading {
+	padding-left: 10px;
+	display: none;
+}
+
 /* flair table */
 .xflair {
 	display: inline-block;

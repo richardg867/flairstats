@@ -11,7 +11,7 @@ function decimals(n) {
 	return ret;
 }
 
-function parseStats() {
+function parseStats(noAnimation) {
 	var result = window._stats;
 
 	// textual stats
@@ -42,6 +42,12 @@ function parseStats() {
 	}
 	categorySelect[0].value = category;
 
+	// get search
+	var searchBox = $('.xflair-search-input');
+	var search = searchBox[0].value;
+	if (search)
+		search = search.toLowerCase();
+
 	// put flairs on table
 	var table = $('#xflair-table');
 	table.html('');
@@ -71,7 +77,7 @@ function parseStats() {
 			continue;
 		}
 
-		// first visible flair should be 100% on the bar
+		// first flair on this category should be 100% on the bar
 		if (topFlairCount == null) {
 			topFlairCount = flair['count'];
 		}
@@ -80,6 +86,13 @@ function parseStats() {
 		if (previousCount != flair['count']) {
 			previousCount = flair['count'];
 			flairPosition++;
+		}
+
+		// filter by search if one is set
+		if (search) {
+			if (flair['name'].toLowerCase().indexOf(search) == -1) {
+				continue;
+			}
 		}
 
 		// make css class list
@@ -136,13 +149,16 @@ function parseStats() {
 	$('#stats').show();
 
 	// animate stats
+	if (noAnimation)
+		return;
 	flairPosition = 0;
 	var jqWindow = $(window);
 	var screenBottom = jqWindow.scrollTop() + jqWindow.height();
 	var bars = $('.xflair-bar');
 	for (var idx in bars) {
 		var bar = $(bars[idx]);
-		if (bar.offset().top < screenBottom) {
+		var offset = bar.offset();
+		if (offset && offset.top < screenBottom) {
 			// width() returns the calculated width, which breaks things on resize
 			var width = bar.attr('data-pct');
 			bar.width(0);
@@ -223,6 +239,25 @@ $(document).ready(function() {
 		pieChartLink.html(pieChartLink.attr('data-toggle'));
 		pieChartLink.attr('data-toggle', html);
 	});
+
+	$('.xflair-search-input').on('keyup', function() {
+		var searchBox = $('.xflair-search-input');
+		// has it changed, or are we just pressing something like shift?
+		if (searchBox[0].value != searchBox.attr('data-prev-value')) {
+			// show loading spinner
+			var loading = $('#xflair-search-loading');
+			loading.show();
+
+			// save previous value
+			searchBox.attr('data-prev-value', searchBox[0].value);
+
+			// use an immediate timeout to let the browser finish layouting the load spinner
+			setTimeout(function(loading) {
+				parseStats(true);
+				loading.hide();
+			}, 0, loading);
+		}
+	})
 
 	// load available snapshots
 	$.getJSON('available.json', function(result) {
