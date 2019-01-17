@@ -122,9 +122,9 @@ function parseStats(noAnimation) {
 				html += 'green">+';
 			else
 				html += 'blue">';
-			html += diff + '</span>';
+			html += diff + '</span> ';
 		}
-		html += ' #' + flairPosition + '</small>';
+		html += '#' + flairPosition + '</small>';
 		html += '</td></tr></table>'
 		html += '</td></tr>';
 		table.append(html);
