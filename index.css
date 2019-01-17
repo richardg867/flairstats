@@ -121,6 +121,15 @@ span.xflair-name {
 td.xflair-name > *, span.xflair-name, .xflair-numbers > * {
 	vertical-align: middle;
 }
+span.xflair-red {
+	color: #600000;
+}
+span.xflair-green {
+	color: #006000;
+}
+span.xflair-blue {
+	color: #000060;
+}
 
 /* credits */
 .credits {

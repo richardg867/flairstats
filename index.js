@@ -112,7 +112,19 @@ function parseStats(noAnimation) {
 			html += '<div class="flair xflair' + cssClasses + '" title="' + flairClasses.join(' ') + '"></div>';
 		html += '<span class="xflair-name">' + flair['name'] + '</span>';
 		html += '</td><td class="xflair-numbers">';
-		html += '<b>' + flair['count'] + '</b><br/><small>#' + flairPosition + '</small>';
+		html += '<b>' + flair['count'] + '</b><br/><small>';
+		if ('prevCount' in flair) {
+			var diff = flair['count'] - flair['prevCount'];
+			html += '<span class="xflair-';
+			if (diff < 0)
+				html += 'red">';
+			else if (diff > 0)
+				html += 'green">+';
+			else
+				html += 'blue">';
+			html += diff + '</span>';
+		}
+		html += ' #' + flairPosition + '</small>';
 		html += '</td></tr></table>'
 		html += '</td></tr>';
 		table.append(html);
