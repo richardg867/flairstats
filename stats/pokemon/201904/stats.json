@@ -3,7 +3,7 @@
  "flaired": 47574,
  "unflaired": 114317,
  "categories": [
-  "Pok\\u00E9mon Only",
+  "Pok\u00e9mon Only",
   "Kanto",
   "Johto",
   "Hoenn",
@@ -123,7 +123,7 @@
   {
    "name": "Shiny Magikarp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos",
     "Special"
    ],
@@ -161,7 +161,7 @@
   {
    "name": "Charmander",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -175,7 +175,7 @@
   {
    "name": "Sableye",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -189,7 +189,7 @@
   {
    "name": "Wigglytuff",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -203,7 +203,7 @@
   {
    "name": "Mudkip",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -217,7 +217,7 @@
   {
    "name": "Charizard",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -231,7 +231,7 @@
   {
    "name": "Chesnaught",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -255,7 +255,7 @@
   {
    "name": "Jirachi",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -269,7 +269,7 @@
   {
    "name": "Giratina-Origin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -283,7 +283,7 @@
   {
    "name": "Mega Mewtwo Y",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -297,7 +297,7 @@
   {
    "name": "Yanmega",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -311,7 +311,7 @@
   {
    "name": "Lurantis",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -325,7 +325,7 @@
   {
    "name": "Bidoof",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -339,7 +339,7 @@
   {
    "name": "Wooper",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -353,7 +353,7 @@
   {
    "name": "Mega Absol",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -367,7 +367,7 @@
   {
    "name": "Feraligatr",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -381,7 +381,7 @@
   {
    "name": "Alakazam",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -395,7 +395,7 @@
   {
    "name": "Lapras",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -409,7 +409,7 @@
   {
    "name": "Jolteon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -423,7 +423,7 @@
   {
    "name": "Incineroar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -437,7 +437,7 @@
   {
    "name": "Mawile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -451,7 +451,7 @@
   {
    "name": "Pidgeot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -465,7 +465,7 @@
   {
    "name": "Blastoise",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -479,7 +479,7 @@
   {
    "name": "Metagross",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -493,7 +493,7 @@
   {
    "name": "Umbreon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -507,7 +507,7 @@
   {
    "name": "Herdier",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -521,7 +521,7 @@
   {
    "name": "Honchkrow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -535,7 +535,7 @@
   {
    "name": "Chespin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -549,7 +549,7 @@
   {
    "name": "Mimikyu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -563,7 +563,7 @@
   {
    "name": "Kingdra",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -577,7 +577,7 @@
   {
    "name": "Cosmog",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -591,7 +591,7 @@
   {
    "name": "Abra",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -605,7 +605,7 @@
   {
    "name": "Wartortle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -619,7 +619,7 @@
   {
    "name": "Luxray",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -633,7 +633,7 @@
   {
    "name": "Scizor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -647,7 +647,7 @@
   {
    "name": "Mega Gallade",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -661,7 +661,7 @@
   {
    "name": "Fomantis",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -675,7 +675,7 @@
   {
    "name": "Wormadam PLant Cloak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -689,7 +689,7 @@
   {
    "name": "Tyranitar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -703,7 +703,7 @@
   {
    "name": "Ash-Greninja",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -717,7 +717,7 @@
   {
    "name": "Flareon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -731,7 +731,7 @@
   {
    "name": "Gliscor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -745,7 +745,7 @@
   {
    "name": "Mega Gengar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -759,7 +759,7 @@
   {
    "name": "Dragonair",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -773,7 +773,7 @@
   {
    "name": "Latias",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -787,7 +787,7 @@
   {
    "name": "Spiritomb",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -801,7 +801,7 @@
   {
    "name": "Tropius",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -815,7 +815,7 @@
   {
    "name": "Lycanroc Dusk Form",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -829,7 +829,7 @@
   {
    "name": "Sandygast",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -843,7 +843,7 @@
   {
    "name": "Blaziken",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -857,7 +857,7 @@
   {
    "name": "Torracat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -871,7 +871,7 @@
   {
    "name": "Mega Mawile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -885,7 +885,7 @@
   {
    "name": "Silvally",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -899,7 +899,7 @@
   {
    "name": "Mew",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -913,7 +913,7 @@
   {
    "name": "Alolan Raichu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -927,7 +927,7 @@
   {
    "name": "Old School Electrode",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -941,7 +941,7 @@
   {
    "name": "Gengar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -955,7 +955,7 @@
   {
    "name": "Poliwhirl",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -969,7 +969,7 @@
   {
    "name": "Kingler",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -983,7 +983,7 @@
   {
    "name": "Seismitoad",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -997,7 +997,7 @@
   {
    "name": "Slowbro",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1011,7 +1011,7 @@
   {
    "name": "Mega Sableye",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -1025,7 +1025,7 @@
   {
    "name": "Hawlucha",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -1039,7 +1039,7 @@
   {
    "name": "Kabutops",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1053,7 +1053,7 @@
   {
    "name": "Misdreavus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1067,7 +1067,7 @@
   {
    "name": "Absol",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1081,7 +1081,7 @@
   {
    "name": "Gardevoir",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1095,7 +1095,7 @@
   {
    "name": "Krabby",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1109,7 +1109,7 @@
   {
    "name": "Zekrom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -1123,7 +1123,7 @@
   {
    "name": "Vaporeon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1137,7 +1137,7 @@
   {
    "name": "Galvantula",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -1151,7 +1151,7 @@
   {
    "name": "Nidoqueen",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1165,7 +1165,7 @@
   {
    "name": "Scyther",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1179,7 +1179,7 @@
   {
    "name": "Old School Rhydon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -1193,7 +1193,7 @@
   {
    "name": "Rowlet",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -1207,7 +1207,7 @@
   {
    "name": "Raichu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1221,7 +1221,7 @@
   {
    "name": "Torterra",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1235,7 +1235,7 @@
   {
    "name": "Vileplume",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1249,7 +1249,7 @@
   {
    "name": "Marshadow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -1263,7 +1263,7 @@
   {
    "name": "Celebi",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1277,7 +1277,7 @@
   {
    "name": "Rayquaza",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1291,7 +1291,7 @@
   {
    "name": "Steelix",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1305,7 +1305,7 @@
   {
    "name": "Haxorus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -1319,7 +1319,7 @@
   {
    "name": "Mewtwo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1333,7 +1333,7 @@
   {
    "name": "Raikou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1347,7 +1347,7 @@
   {
    "name": "Milotic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1361,7 +1361,7 @@
   {
    "name": "Espeon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1375,7 +1375,7 @@
   {
    "name": "Typhlosion",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1389,7 +1389,7 @@
   {
    "name": "Noibat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -1403,7 +1403,7 @@
   {
    "name": "Drampa",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -1417,7 +1417,7 @@
   {
    "name": "Slowpoke",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1431,7 +1431,7 @@
   {
    "name": "Arcanine",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1445,7 +1445,7 @@
   {
    "name": "Entei",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1459,7 +1459,7 @@
   {
    "name": "Rotom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1473,7 +1473,7 @@
   {
    "name": "Squirtle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1487,7 +1487,7 @@
   {
    "name": "Garchomp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1501,7 +1501,7 @@
   {
    "name": "Swampert",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1515,7 +1515,7 @@
   {
    "name": "Golduck",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1529,7 +1529,7 @@
   {
    "name": "Castform",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1543,7 +1543,7 @@
   {
    "name": "Chimecho",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1557,7 +1557,7 @@
   {
    "name": "Grovyle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1571,7 +1571,7 @@
   {
    "name": "Pidgeotto",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1585,7 +1585,7 @@
   {
    "name": "Lucario",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1614,7 +1614,7 @@
   {
    "name": "Donphan",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1628,7 +1628,7 @@
   {
    "name": "Salamence",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1642,7 +1642,7 @@
   {
    "name": "Mega Gardevoir",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -1656,7 +1656,7 @@
   {
    "name": "Vulpix",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1670,7 +1670,7 @@
   {
    "name": "Haunter",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1684,7 +1684,7 @@
   {
    "name": "Dewott",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -1698,7 +1698,7 @@
   {
    "name": "Politoed",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1712,7 +1712,7 @@
   {
    "name": "Houndour",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1726,7 +1726,7 @@
   {
    "name": "Weavile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1740,7 +1740,7 @@
   {
    "name": "Pikachu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1754,7 +1754,7 @@
   {
    "name": "Beartic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -1768,7 +1768,7 @@
   {
    "name": "Wingull",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1782,7 +1782,7 @@
   {
    "name": "Infernape",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1796,7 +1796,7 @@
   {
    "name": "Darkrai",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1810,7 +1810,7 @@
   {
    "name": "Whimsicott",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -1824,7 +1824,7 @@
   {
    "name": "Naganadel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -1838,7 +1838,7 @@
   {
    "name": "Murkrow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1852,7 +1852,7 @@
   {
    "name": "Aegislash",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -1866,7 +1866,7 @@
   {
    "name": "Porygon-Z",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1880,7 +1880,7 @@
   {
    "name": "Turtwig",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1894,7 +1894,7 @@
   {
    "name": "Koffing",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -1908,7 +1908,7 @@
   {
    "name": "Greninja",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -1922,7 +1922,7 @@
   {
    "name": "Skarmory",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -1936,7 +1936,7 @@
   {
    "name": "Sylveon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -1950,7 +1950,7 @@
   {
    "name": "Togekiss",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -1964,7 +1964,7 @@
   {
    "name": "Shedinja",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1978,7 +1978,7 @@
   {
    "name": "Seviper",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -1992,7 +1992,7 @@
   {
    "name": "Mega Rayquaza",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2006,7 +2006,7 @@
   {
    "name": "Giratina",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2035,7 +2035,7 @@
   {
    "name": "Bulbasaur",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2049,7 +2049,7 @@
   {
    "name": "Girafarig",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2063,7 +2063,7 @@
   {
    "name": "Omanyte",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2077,7 +2077,7 @@
   {
    "name": "Clawitzer",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -2091,7 +2091,7 @@
   {
    "name": "Quilava",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2105,7 +2105,7 @@
   {
    "name": "Dusknoir",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2119,7 +2119,7 @@
   {
    "name": "Miltank",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2133,7 +2133,7 @@
   {
    "name": "Magikarp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2147,7 +2147,7 @@
   {
    "name": "Primal Dialga",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -2161,7 +2161,7 @@
   {
    "name": "Zapdos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2175,7 +2175,7 @@
   {
    "name": "Togepi",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2189,7 +2189,7 @@
   {
    "name": "Dugtrio",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2218,7 +2218,7 @@
   {
    "name": "Old School Seel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -2232,7 +2232,7 @@
   {
    "name": "Cyndaquil",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2246,7 +2246,7 @@
   {
    "name": "Snover",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2260,7 +2260,7 @@
   {
    "name": "Ho-Oh",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2274,7 +2274,7 @@
   {
    "name": "Mega Scizor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2288,7 +2288,7 @@
   {
    "name": "Chandelure",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -2302,7 +2302,7 @@
   {
    "name": "Mega Swampert",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2316,7 +2316,7 @@
   {
    "name": "Skuntank",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2330,7 +2330,7 @@
   {
    "name": "Rapidash",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2344,7 +2344,7 @@
   {
    "name": "Mega Lucario",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2358,7 +2358,7 @@
   {
    "name": "Mothim",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2372,7 +2372,7 @@
   {
    "name": "Ninetales",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2386,7 +2386,7 @@
   {
    "name": "Aron",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2400,7 +2400,7 @@
   {
    "name": "Golurk",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -2414,7 +2414,7 @@
   {
    "name": "Zubat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2428,7 +2428,7 @@
   {
    "name": "Mega Blaziken",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2442,7 +2442,7 @@
   {
    "name": "Ursaring",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2456,7 +2456,7 @@
   {
    "name": "Flygon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2470,7 +2470,7 @@
   {
    "name": "Buizel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2484,7 +2484,7 @@
   {
    "name": "Articuno",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2498,7 +2498,7 @@
   {
    "name": "Ampharos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2512,7 +2512,7 @@
   {
    "name": "Emolga",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -2526,7 +2526,7 @@
   {
    "name": "Florges",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -2540,7 +2540,7 @@
   {
    "name": "Pichu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2554,7 +2554,7 @@
   {
    "name": "Wobbuffet",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2568,7 +2568,7 @@
   {
    "name": "Primarina",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -2582,7 +2582,7 @@
   {
    "name": "Mantine",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2596,7 +2596,7 @@
   {
    "name": "Goomy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -2610,7 +2610,7 @@
   {
    "name": "Pallosand",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -2624,7 +2624,7 @@
   {
    "name": "Dunsparce",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2638,7 +2638,7 @@
   {
    "name": "Minior Indigo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -2652,7 +2652,7 @@
   {
    "name": "Numel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2666,7 +2666,7 @@
   {
    "name": "Sandslash",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2680,7 +2680,7 @@
   {
    "name": "Heliolisk",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -2694,7 +2694,7 @@
   {
    "name": "Zangoose",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2708,7 +2708,7 @@
   {
    "name": "Groudon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2722,7 +2722,7 @@
   {
    "name": "Manaphy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2736,7 +2736,7 @@
   {
    "name": "Mega Ampharos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2750,7 +2750,7 @@
   {
    "name": "Mareep",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2764,7 +2764,7 @@
   {
    "name": "Darumaka",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -2778,7 +2778,7 @@
   {
    "name": "Wailord",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2792,7 +2792,7 @@
   {
    "name": "Staraptor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2806,7 +2806,7 @@
   {
    "name": "Dragonite",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2820,7 +2820,7 @@
   {
    "name": "Mega Beedrill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2834,7 +2834,7 @@
   {
    "name": "Deoxys",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2848,7 +2848,7 @@
   {
    "name": "Old School Clefairy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -2862,7 +2862,7 @@
   {
    "name": "Rotom-Heat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -2876,7 +2876,7 @@
   {
    "name": "Mega Banette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -2890,7 +2890,7 @@
   {
    "name": "Drifloon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -2904,7 +2904,7 @@
   {
    "name": "Persian",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2918,7 +2918,7 @@
   {
    "name": "Sandshrew",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -2932,7 +2932,7 @@
   {
    "name": "Octillery",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2946,7 +2946,7 @@
   {
    "name": "Combusken",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2960,7 +2960,7 @@
   {
    "name": "Quagsire",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -2974,7 +2974,7 @@
   {
    "name": "Ludicolo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -2988,7 +2988,7 @@
   {
    "name": "Mega Charizard X",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -3002,7 +3002,7 @@
   {
    "name": "Excadrill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3016,7 +3016,7 @@
   {
    "name": "Missingno.",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous",
     "Special"
    ],
@@ -3032,7 +3032,7 @@
   {
    "name": "Froslass",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -3046,7 +3046,7 @@
   {
    "name": "Teddiursa",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -3060,7 +3060,7 @@
   {
    "name": "Jigglypuff",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3074,7 +3074,7 @@
   {
    "name": "Registeel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3088,7 +3088,7 @@
   {
    "name": "Venusaur",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3102,7 +3102,7 @@
   {
    "name": "Snorlax",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3116,7 +3116,7 @@
   {
    "name": "Venonat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3130,7 +3130,7 @@
   {
    "name": "Mega Steelix",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -3144,7 +3144,7 @@
   {
    "name": "Lugia",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -3158,7 +3158,7 @@
   {
    "name": "Gyarados",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3172,7 +3172,7 @@
   {
    "name": "Crobat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -3186,7 +3186,7 @@
   {
    "name": "Primal Kyogre",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -3200,7 +3200,7 @@
   {
    "name": "Skitty",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3214,7 +3214,7 @@
   {
    "name": "Snivy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3228,7 +3228,7 @@
   {
    "name": "Yamask",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3242,7 +3242,7 @@
   {
    "name": "Kyogre",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3256,7 +3256,7 @@
   {
    "name": "Alolan Marowak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -3270,7 +3270,7 @@
   {
    "name": "Arceus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -3284,7 +3284,7 @@
   {
    "name": "Mightyena",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3298,7 +3298,7 @@
   {
    "name": "Gallade",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -3312,7 +3312,7 @@
   {
    "name": "Shinx",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -3326,7 +3326,7 @@
   {
    "name": "Electivire",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -3340,7 +3340,7 @@
   {
    "name": "Mega Sceptile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -3354,7 +3354,7 @@
   {
    "name": "Tepig",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3368,7 +3368,7 @@
   {
    "name": "Slurpuff",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -3382,7 +3382,7 @@
   {
    "name": "Ditto",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3396,7 +3396,7 @@
   {
    "name": "Sceptile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3410,7 +3410,7 @@
   {
    "name": "Vigoroth",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3424,7 +3424,7 @@
   {
    "name": "Ninjask",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3438,7 +3438,7 @@
   {
    "name": "Eevee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3452,7 +3452,7 @@
   {
    "name": "Probopass",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -3466,7 +3466,7 @@
   {
    "name": "Escavalier",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3480,7 +3480,7 @@
   {
    "name": "Bisharp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3494,7 +3494,7 @@
   {
    "name": "Zorua",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3508,7 +3508,7 @@
   {
    "name": "Cresselia",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -3522,7 +3522,7 @@
   {
    "name": "Marshtomp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3536,7 +3536,7 @@
   {
    "name": "Aerodactyl",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3550,7 +3550,7 @@
   {
    "name": "Porygon2",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -3564,7 +3564,7 @@
   {
    "name": "Virizion",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3578,7 +3578,7 @@
   {
    "name": "Kadabra",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3592,7 +3592,7 @@
   {
    "name": "Pikachu Rock Star",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -3606,7 +3606,7 @@
   {
    "name": "Azumarill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -3620,7 +3620,7 @@
   {
    "name": "Serperior",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3634,7 +3634,7 @@
   {
    "name": "Mega Audino",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -3648,7 +3648,7 @@
   {
    "name": "Sneasel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -3662,7 +3662,7 @@
   {
    "name": "Ralts",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3676,7 +3676,7 @@
   {
    "name": "Popplio",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -3690,7 +3690,7 @@
   {
    "name": "Swellow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3704,7 +3704,7 @@
   {
    "name": "Charmeleon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3718,7 +3718,7 @@
   {
    "name": "Kyurem Black",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -3732,7 +3732,7 @@
   {
    "name": "Lunatone",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3746,7 +3746,7 @@
   {
    "name": "Deoxys Attack",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -3760,7 +3760,7 @@
   {
    "name": "Meowth",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3774,7 +3774,7 @@
   {
    "name": "Simisear",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3788,7 +3788,7 @@
   {
    "name": "Volcarona",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3802,7 +3802,7 @@
   {
    "name": "Malamar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -3816,7 +3816,7 @@
   {
    "name": "Espurr",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -3830,7 +3830,7 @@
   {
    "name": "Pyroar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -3844,7 +3844,7 @@
   {
    "name": "Dratini",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3858,7 +3858,7 @@
   {
    "name": "Mega Aggron",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -3872,7 +3872,7 @@
   {
    "name": "Spheal",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3886,7 +3886,7 @@
   {
    "name": "Noivern",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -3900,7 +3900,7 @@
   {
    "name": "Litleo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -3914,7 +3914,7 @@
   {
    "name": "Paras",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3928,7 +3928,7 @@
   {
    "name": "Magneton",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -3942,7 +3942,7 @@
   {
    "name": "Zebstrika",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -3956,7 +3956,7 @@
   {
    "name": "Alolan Sandshrew",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -3970,7 +3970,7 @@
   {
    "name": "Duskull",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -3984,7 +3984,7 @@
   {
    "name": "Bewear",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -3998,7 +3998,7 @@
   {
    "name": "Trubbish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4027,7 +4027,7 @@
   {
    "name": "Kecleon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4041,7 +4041,7 @@
   {
    "name": "Shuckle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4055,7 +4055,7 @@
   {
    "name": "Honedge",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -4069,7 +4069,7 @@
   {
    "name": "Mega Pinsir",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -4083,7 +4083,7 @@
   {
    "name": "Mega Charizard Y",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -4097,7 +4097,7 @@
   {
    "name": "Rotom-Mow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -4111,7 +4111,7 @@
   {
    "name": "Arbok",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4125,7 +4125,7 @@
   {
    "name": "Zygarde",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -4139,7 +4139,7 @@
   {
    "name": "Kommo-o",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -4153,7 +4153,7 @@
   {
    "name": "Slaking",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4167,7 +4167,7 @@
   {
    "name": "Hippowdon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -4181,7 +4181,7 @@
   {
    "name": "Hydreigon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4195,7 +4195,7 @@
   {
    "name": "Piloswine",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4209,7 +4209,7 @@
   {
    "name": "Munchlax",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -4223,7 +4223,7 @@
   {
    "name": "Eelektross",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4252,7 +4252,7 @@
   {
    "name": "Tangrowth",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -4266,7 +4266,7 @@
   {
    "name": "Mega Blastoise",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -4280,7 +4280,7 @@
   {
    "name": "Meganium",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4294,7 +4294,7 @@
   {
    "name": "Taillow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4308,7 +4308,7 @@
   {
    "name": "Mega Abomasnow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -4322,7 +4322,7 @@
   {
    "name": "Phanpy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4336,7 +4336,7 @@
   {
    "name": "Aggron",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4363,7 +4363,7 @@
   {
    "name": "Mega Lopunny",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -4377,7 +4377,7 @@
   {
    "name": "Farfetch'd",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4391,7 +4391,7 @@
   {
    "name": "Smeargle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4405,7 +4405,7 @@
   {
    "name": "Mega Diancie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -4419,7 +4419,7 @@
   {
    "name": "Kyurem White",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -4433,7 +4433,7 @@
   {
    "name": "Marowak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4447,7 +4447,7 @@
   {
    "name": "Primal Groudon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -4461,7 +4461,7 @@
   {
    "name": "Oddish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4475,7 +4475,7 @@
   {
    "name": "Alolan Ninetales",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -4489,7 +4489,7 @@
   {
    "name": "Zoroark",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4503,7 +4503,7 @@
   {
    "name": "Meloetta",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4517,7 +4517,7 @@
   {
    "name": "Zygarde Complete Forme",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -4531,7 +4531,7 @@
   {
    "name": "Natu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4545,7 +4545,7 @@
   {
    "name": "Psyduck",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4559,7 +4559,7 @@
   {
    "name": "Goodra",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -4573,7 +4573,7 @@
   {
    "name": "Sawsbuck",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4587,7 +4587,7 @@
   {
    "name": "Growlithe",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4601,7 +4601,7 @@
   {
    "name": "Glaceon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -4615,7 +4615,7 @@
   {
    "name": "Kabuto",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4629,7 +4629,7 @@
   {
    "name": "Butterfree",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4643,7 +4643,7 @@
   {
    "name": "Breloom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4657,7 +4657,7 @@
   {
    "name": "Tauros",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4671,7 +4671,7 @@
   {
    "name": "Slowking",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4685,7 +4685,7 @@
   {
    "name": "Slakoth",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4699,7 +4699,7 @@
   {
    "name": "Flaaffy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4713,7 +4713,7 @@
   {
    "name": "Ledian",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4727,7 +4727,7 @@
   {
    "name": "Gogoat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -4741,7 +4741,7 @@
   {
    "name": "Piplup",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -4755,7 +4755,7 @@
   {
    "name": "Lotad",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4769,7 +4769,7 @@
   {
    "name": "Stunfisk",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4783,7 +4783,7 @@
   {
    "name": "Delphox",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -4797,7 +4797,7 @@
   {
    "name": "Genesect",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4811,7 +4811,7 @@
   {
    "name": "Rattata",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4825,7 +4825,7 @@
   {
    "name": "Shellos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -4839,7 +4839,7 @@
   {
    "name": "Lopunny",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -4853,7 +4853,7 @@
   {
    "name": "Shroomish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4867,7 +4867,7 @@
   {
    "name": "Torchic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -4881,7 +4881,7 @@
   {
    "name": "Xerneas",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -4895,7 +4895,7 @@
   {
    "name": "Stantler",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4909,7 +4909,7 @@
   {
    "name": "Suicune",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4923,7 +4923,7 @@
   {
    "name": "Sudowoodo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4937,7 +4937,7 @@
   {
    "name": "Emboar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4951,7 +4951,7 @@
   {
    "name": "Reuniclus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -4965,7 +4965,7 @@
   {
    "name": "Xatu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -4979,7 +4979,7 @@
   {
    "name": "Cloyster",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -4993,7 +4993,7 @@
   {
    "name": "Poochyena",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5007,7 +5007,7 @@
   {
    "name": "Accelgor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5021,7 +5021,7 @@
   {
    "name": "Aipom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5035,7 +5035,7 @@
   {
    "name": "Sharpedo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5049,7 +5049,7 @@
   {
    "name": "Mega Metagross",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -5063,7 +5063,7 @@
   {
    "name": "Aurorus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -5077,7 +5077,7 @@
   {
    "name": "Medicham",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5091,7 +5091,7 @@
   {
    "name": "Cubone",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5105,7 +5105,7 @@
   {
    "name": "Exploud",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5119,7 +5119,7 @@
   {
    "name": "Keldeo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5133,7 +5133,7 @@
   {
    "name": "Scolipede",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5147,7 +5147,7 @@
   {
    "name": "Roserade",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5161,7 +5161,7 @@
   {
    "name": "Shaymin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5175,7 +5175,7 @@
   {
    "name": "Starmie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5189,7 +5189,7 @@
   {
    "name": "Drifblim",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5203,7 +5203,7 @@
   {
    "name": "Latios",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5217,7 +5217,7 @@
   {
    "name": "Magnezone",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5231,7 +5231,7 @@
   {
    "name": "Doublade",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -5245,7 +5245,7 @@
   {
    "name": "Toxicroak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5259,7 +5259,7 @@
   {
    "name": "Dialga",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5273,7 +5273,7 @@
   {
    "name": "Shaymin-Sky",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -5287,7 +5287,7 @@
   {
    "name": "East Sea Shellos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -5301,7 +5301,7 @@
   {
    "name": "Machamp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5315,7 +5315,7 @@
   {
    "name": "Mamoswine",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5329,7 +5329,7 @@
   {
    "name": "Heracross",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5343,7 +5343,7 @@
   {
    "name": "Azurill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5357,7 +5357,7 @@
   {
    "name": "Tirtouga",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5371,7 +5371,7 @@
   {
    "name": "Swinub",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5385,7 +5385,7 @@
   {
    "name": "Litwick",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5399,7 +5399,7 @@
   {
    "name": "Mega Salamence",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -5413,7 +5413,7 @@
   {
    "name": "Larvitar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5427,7 +5427,7 @@
   {
    "name": "Corsola",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5441,7 +5441,7 @@
   {
    "name": "Ducklett",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5455,7 +5455,7 @@
   {
    "name": "Tapu Koko",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -5469,7 +5469,7 @@
   {
    "name": "Exeggutor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5483,7 +5483,7 @@
   {
    "name": "Braixen",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -5497,7 +5497,7 @@
   {
    "name": "Exeggcute",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5511,7 +5511,7 @@
   {
    "name": "Cobalion",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5525,7 +5525,7 @@
   {
    "name": "Swalot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5539,7 +5539,7 @@
   {
    "name": "Wimpod",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -5553,7 +5553,7 @@
   {
    "name": "Floette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -5567,7 +5567,7 @@
   {
    "name": "Aegislash Blade Forme",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -5581,7 +5581,7 @@
   {
    "name": "Sewaddle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5595,7 +5595,7 @@
   {
    "name": "Snorunt",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5609,7 +5609,7 @@
   {
    "name": "Clamperl",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5623,7 +5623,7 @@
   {
    "name": "Dwebble",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5637,7 +5637,7 @@
   {
    "name": "Cacnea",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5651,7 +5651,7 @@
   {
    "name": "Hitmontop",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5665,7 +5665,7 @@
   {
    "name": "Zygarde Core Forme",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -5679,7 +5679,7 @@
   {
    "name": "Feebas",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5693,7 +5693,7 @@
   {
    "name": "Gible",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5707,7 +5707,7 @@
   {
    "name": "Dustox",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5721,7 +5721,7 @@
   {
    "name": "Spoink",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5735,7 +5735,7 @@
   {
    "name": "Chansey",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5749,7 +5749,7 @@
   {
    "name": "Rotom-Wash",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -5763,7 +5763,7 @@
   {
    "name": "Hitmonchan",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5777,7 +5777,7 @@
   {
    "name": "Oshawott",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5791,7 +5791,7 @@
   {
    "name": "Rotom-Fan",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -5805,7 +5805,7 @@
   {
    "name": "Clefairy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -5819,7 +5819,7 @@
   {
    "name": "Rhyperior",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -5833,7 +5833,7 @@
   {
    "name": "Chikorita",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5847,7 +5847,7 @@
   {
    "name": "Vanilluxe",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5861,7 +5861,7 @@
   {
    "name": "Minun",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5875,7 +5875,7 @@
   {
    "name": "Maractus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -5889,7 +5889,7 @@
   {
    "name": "Altaria",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -5903,7 +5903,7 @@
   {
    "name": "Houndoom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -5917,7 +5917,7 @@
   {
    "name": "Komala",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -5931,7 +5931,7 @@
   {
    "name": "Barbaracle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -5945,7 +5945,7 @@
   {
    "name": "Pyukumuku",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -5959,7 +5959,7 @@
   {
    "name": "Lycanroc Midday Form",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -5973,7 +5973,7 @@
   {
    "name": "Mega Slowbro",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -5987,7 +5987,7 @@
   {
    "name": "Shiftry",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6001,7 +6001,7 @@
   {
    "name": "Mismagius",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6015,7 +6015,7 @@
   {
    "name": "Dhelmise",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -6029,7 +6029,7 @@
   {
    "name": "Foongus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6043,7 +6043,7 @@
   {
    "name": "Drapion",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6057,7 +6057,7 @@
   {
    "name": "Leafeon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6071,7 +6071,7 @@
   {
    "name": "Mega Manectric",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -6085,7 +6085,7 @@
   {
    "name": "Kricketune",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6099,7 +6099,7 @@
   {
    "name": "Skiddo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6113,7 +6113,7 @@
   {
    "name": "Furret",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -6127,7 +6127,7 @@
   {
    "name": "Keldeo Resolute",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -6141,7 +6141,7 @@
   {
    "name": "Fennekin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6155,7 +6155,7 @@
   {
    "name": "Mega Glalie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -6182,7 +6182,7 @@
   {
    "name": "Glalie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6196,7 +6196,7 @@
   {
    "name": "Archeops",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6210,7 +6210,7 @@
   {
    "name": "Empoleon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6224,7 +6224,7 @@
   {
    "name": "Kakuna",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6238,7 +6238,7 @@
   {
    "name": "Rampardos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6252,7 +6252,7 @@
   {
    "name": "Talonflame",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6266,7 +6266,7 @@
   {
    "name": "Gligar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -6280,7 +6280,7 @@
   {
    "name": "Carbink",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6294,7 +6294,7 @@
   {
    "name": "Clefable",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6308,7 +6308,7 @@
   {
    "name": "Banette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6322,7 +6322,7 @@
   {
    "name": "Nidoran-M",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6336,7 +6336,7 @@
   {
    "name": "Hypno",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6350,7 +6350,7 @@
   {
    "name": "Pancham",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6364,7 +6364,7 @@
   {
    "name": "Mega Altaria",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -6378,7 +6378,7 @@
   {
    "name": "Victini",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6392,7 +6392,7 @@
   {
    "name": "Nidoking",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6406,7 +6406,7 @@
   {
    "name": "Pidgey",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6420,7 +6420,7 @@
   {
    "name": "Swadloon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6434,7 +6434,7 @@
   {
    "name": "Diggersby",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6448,7 +6448,7 @@
   {
    "name": "Totodile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -6462,7 +6462,7 @@
   {
    "name": "Litten",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -6476,7 +6476,7 @@
   {
    "name": "Minccino",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6490,7 +6490,7 @@
   {
    "name": "Amaura",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6504,7 +6504,7 @@
   {
    "name": "Mega Medicham",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -6518,7 +6518,7 @@
   {
    "name": "Chatot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6532,7 +6532,7 @@
   {
    "name": "Delibird",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -6546,7 +6546,7 @@
   {
    "name": "Cacturne",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6560,7 +6560,7 @@
   {
    "name": "Regice",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6574,7 +6574,7 @@
   {
    "name": "Armaldo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6588,7 +6588,7 @@
   {
    "name": "Lilligant",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6602,7 +6602,7 @@
   {
    "name": "Crawdaunt",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6616,7 +6616,7 @@
   {
    "name": "Onix",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6630,7 +6630,7 @@
   {
    "name": "Audino",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6644,7 +6644,7 @@
   {
    "name": "Cofagrigus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6673,7 +6673,7 @@
   {
    "name": "Decidueye",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -6687,7 +6687,7 @@
   {
    "name": "Nuzleaf",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -6701,7 +6701,7 @@
   {
    "name": "Pangoro",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6715,7 +6715,7 @@
   {
    "name": "Mega Gyarados",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -6729,7 +6729,7 @@
   {
    "name": "Female Meowstic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -6743,7 +6743,7 @@
   {
    "name": "Blissey",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -6757,7 +6757,7 @@
   {
    "name": "Mienfoo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6771,7 +6771,7 @@
   {
    "name": "Porygon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6785,7 +6785,7 @@
   {
    "name": "Cleffa",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -6799,7 +6799,7 @@
   {
    "name": "Croagunk",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6828,7 +6828,7 @@
   {
    "name": "Cherrim",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6842,7 +6842,7 @@
   {
    "name": "Reshiram",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6856,7 +6856,7 @@
   {
    "name": "Palkia",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6870,7 +6870,7 @@
   {
    "name": "Phantump",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6884,7 +6884,7 @@
   {
    "name": "Pinsir",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6898,7 +6898,7 @@
   {
    "name": "Mega Venusaur",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -6912,7 +6912,7 @@
   {
    "name": "Chimchar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -6926,7 +6926,7 @@
   {
    "name": "Klinklang",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -6940,7 +6940,7 @@
   {
    "name": "Kangaskhan",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6954,7 +6954,7 @@
   {
    "name": "Ekans",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -6968,7 +6968,7 @@
   {
    "name": "Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -6982,7 +6982,7 @@
   {
    "name": "Mega Alakazam",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -6996,7 +6996,7 @@
   {
    "name": "Riolu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -7010,7 +7010,7 @@
   {
    "name": "Magmar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7024,7 +7024,7 @@
   {
    "name": "Scrafty",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -7038,7 +7038,7 @@
   {
    "name": "Dewgong",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7052,7 +7052,7 @@
   {
    "name": "Bastiodon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -7066,7 +7066,7 @@
   {
    "name": "Wurmple",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7080,7 +7080,7 @@
   {
    "name": "Manectric",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7094,7 +7094,7 @@
   {
    "name": "Pupitar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -7108,7 +7108,7 @@
   {
    "name": "Mankey",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7122,7 +7122,7 @@
   {
    "name": "Solrock",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7136,7 +7136,7 @@
   {
    "name": "Samurott",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -7150,7 +7150,7 @@
   {
    "name": "Sunflora",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -7164,7 +7164,7 @@
   {
    "name": "Lycanroc Midnight Form",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -7178,7 +7178,7 @@
   {
    "name": "Spinda",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7192,7 +7192,7 @@
   {
    "name": "Meditite",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7206,7 +7206,7 @@
   {
    "name": "Treecko",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7220,7 +7220,7 @@
   {
    "name": "Pelipper",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7234,7 +7234,7 @@
   {
    "name": "Relicanth",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7248,7 +7248,7 @@
   {
    "name": "Poliwrath",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7275,7 +7275,7 @@
   {
    "name": "Frogadier",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -7289,7 +7289,7 @@
   {
    "name": "Ocean Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -7303,7 +7303,7 @@
   {
    "name": "Krookodile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -7317,7 +7317,7 @@
   {
    "name": "Bagon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7331,7 +7331,7 @@
   {
    "name": "Surskit",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7345,7 +7345,7 @@
   {
    "name": "Beedrill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7387,7 +7387,7 @@
   {
    "name": "Granbull",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -7401,7 +7401,7 @@
   {
    "name": "Ariados",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -7428,7 +7428,7 @@
   {
    "name": "Ultra Necrozma",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -7442,7 +7442,7 @@
   {
    "name": "Magearna",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7456,7 +7456,7 @@
   {
    "name": "Sunkern",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -7485,7 +7485,7 @@
   {
    "name": "Electrode",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7512,7 +7512,7 @@
   {
    "name": "Caterpie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7526,7 +7526,7 @@
   {
    "name": "Alolan Vulpix",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -7540,7 +7540,7 @@
   {
    "name": "Musharna",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -7554,7 +7554,7 @@
   {
    "name": "Gourgeist",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -7568,7 +7568,7 @@
   {
    "name": "Polar Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -7582,7 +7582,7 @@
   {
    "name": "Diglett",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7596,7 +7596,7 @@
   {
    "name": "Kirlia",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7610,7 +7610,7 @@
   {
    "name": "Poliwag",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7639,7 +7639,7 @@
   {
    "name": "Stoutland",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -7666,7 +7666,7 @@
   {
    "name": "Floatzel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -7680,7 +7680,7 @@
   {
    "name": "Jangmo-o",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7694,7 +7694,7 @@
   {
    "name": "Horsea",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -7708,7 +7708,7 @@
   {
    "name": "Monferno",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -7722,7 +7722,7 @@
   {
    "name": "Garbodor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -7736,7 +7736,7 @@
   {
    "name": "Mega Heracross",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -7750,7 +7750,7 @@
   {
    "name": "Mega Garchomp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -7764,7 +7764,7 @@
   {
    "name": "Tapu Fini",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7778,7 +7778,7 @@
   {
    "name": "Necrozma",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7822,7 +7822,7 @@
   {
    "name": "UB-02 Absorption - Buzzwole",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7851,7 +7851,7 @@
   {
    "name": "Whiscash",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -7865,7 +7865,7 @@
   {
    "name": "Mega Tyranitar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -7879,7 +7879,7 @@
   {
    "name": "Tsareena",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7893,7 +7893,7 @@
   {
    "name": "Pachirisu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -7920,7 +7920,7 @@
   {
    "name": "Araquanid",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7964,7 +7964,7 @@
   {
    "name": "Wishiwashi",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -7993,7 +7993,7 @@
   {
    "name": "Golett",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8007,7 +8007,7 @@
   {
    "name": "Durant",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8021,7 +8021,7 @@
   {
    "name": "Moltres",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8050,7 +8050,7 @@
   {
    "name": "UB-01 Symbiont - Nihilego",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8077,7 +8077,7 @@
   {
    "name": "Bayleef",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8091,7 +8091,7 @@
   {
    "name": "UB-04 Blade - Kartana",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8105,7 +8105,7 @@
   {
    "name": "Elekid",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8119,7 +8119,7 @@
   {
    "name": "Muk",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8148,7 +8148,7 @@
   {
    "name": "Deerling",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8162,7 +8162,7 @@
   {
    "name": "Fearow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8176,7 +8176,7 @@
   {
    "name": "Joltik",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8190,7 +8190,7 @@
   {
    "name": "Rhydon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8204,7 +8204,7 @@
   {
    "name": "Regigigas",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8218,7 +8218,7 @@
   {
    "name": "Froakie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -8232,7 +8232,7 @@
   {
    "name": "Grotle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8246,7 +8246,7 @@
   {
    "name": "Roselia",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -8260,7 +8260,7 @@
   {
    "name": "Darmanitan",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8274,7 +8274,7 @@
   {
    "name": "Tyrantrum",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -8288,7 +8288,7 @@
   {
    "name": "Marill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8302,7 +8302,7 @@
   {
    "name": "Primeape",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8316,7 +8316,7 @@
   {
    "name": "Scraggy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8330,7 +8330,7 @@
   {
    "name": "Igglybuff",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8344,7 +8344,7 @@
   {
    "name": "Lombre",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -8358,7 +8358,7 @@
   {
    "name": "UB-02 Beauty - Pheromosa",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8372,7 +8372,7 @@
   {
    "name": "Beldum",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -8386,7 +8386,7 @@
   {
    "name": "Weezing",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8400,7 +8400,7 @@
   {
    "name": "Lanturn",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8439,7 +8439,7 @@
   {
    "name": "Gastrodon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8453,7 +8453,7 @@
   {
    "name": "Omastar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8467,7 +8467,7 @@
   {
    "name": "Minior Sky",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8481,7 +8481,7 @@
   {
    "name": "Luvdisc",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -8495,7 +8495,7 @@
   {
    "name": "Toxapex",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8509,7 +8509,7 @@
   {
    "name": "UB-06 Adhesive - Poipole",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8523,7 +8523,7 @@
   {
    "name": "Modern Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8537,7 +8537,7 @@
   {
    "name": "Old School Omanyte",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8551,7 +8551,7 @@
   {
    "name": "Ferrothorn",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8565,7 +8565,7 @@
   {
    "name": "Roggenrola",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8579,7 +8579,7 @@
   {
    "name": "Starly",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8593,7 +8593,7 @@
   {
    "name": "Togetic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8607,7 +8607,7 @@
   {
    "name": "Old School Vileplume",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8621,7 +8621,7 @@
   {
    "name": "Steenee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8635,7 +8635,7 @@
   {
    "name": "Team Instinct",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8649,7 +8649,7 @@
   {
    "name": "Gloom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8663,7 +8663,7 @@
   {
    "name": "Vikavolt",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8677,7 +8677,7 @@
   {
    "name": "Lunala",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8691,7 +8691,7 @@
   {
    "name": "Ribombee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8705,7 +8705,7 @@
   {
    "name": "Shieldon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8719,7 +8719,7 @@
   {
    "name": "Liepard",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8733,7 +8733,7 @@
   {
    "name": "Zen Mode Darmanitan",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8747,7 +8747,7 @@
   {
    "name": "Alolan Exeggutor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8761,7 +8761,7 @@
   {
    "name": "Skiploom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8775,7 +8775,7 @@
   {
    "name": "Vespiquen",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8789,7 +8789,7 @@
   {
    "name": "Alolan Rattata",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -8803,7 +8803,7 @@
   {
    "name": "Bellsprout",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8817,7 +8817,7 @@
   {
    "name": "Jynx",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8831,7 +8831,7 @@
   {
    "name": "Fraxure",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8845,7 +8845,7 @@
   {
    "name": "Yveltal",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -8859,7 +8859,7 @@
   {
    "name": "Sawk",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8873,7 +8873,7 @@
   {
    "name": "Bellossom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -8902,7 +8902,7 @@
   {
    "name": "Spritzee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -8929,7 +8929,7 @@
   {
    "name": "Uxie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8943,7 +8943,7 @@
   {
    "name": "Golbat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -8957,7 +8957,7 @@
   {
    "name": "Yungoos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -8971,7 +8971,7 @@
   {
    "name": "Braviary",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -8985,7 +8985,7 @@
   {
    "name": "Bronzong",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -8999,7 +8999,7 @@
   {
    "name": "Flabebe",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9013,7 +9013,7 @@
   {
    "name": "Tentacruel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9027,7 +9027,7 @@
   {
    "name": "Cutiefly",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9054,7 +9054,7 @@
   {
    "name": "Weedle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9068,7 +9068,7 @@
   {
    "name": "Lickilicky",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -9082,7 +9082,7 @@
   {
    "name": "Aromatisse",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9096,7 +9096,7 @@
   {
    "name": "Brionne",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9110,7 +9110,7 @@
   {
    "name": "Abomasnow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -9124,7 +9124,7 @@
   {
    "name": "Alolan Dugtrio",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -9138,7 +9138,7 @@
   {
    "name": "Mega Houndoom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -9152,7 +9152,7 @@
   {
    "name": "Hoopa",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9166,7 +9166,7 @@
   {
    "name": "Swirlix",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9180,7 +9180,7 @@
   {
    "name": "Palpitoad",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -9194,7 +9194,7 @@
   {
    "name": "Mesprit",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -9208,7 +9208,7 @@
   {
    "name": "Salazzle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9222,7 +9222,7 @@
   {
    "name": "Parasect",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9236,7 +9236,7 @@
   {
    "name": "Diancie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9250,7 +9250,7 @@
   {
    "name": "Golisopod",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9264,7 +9264,7 @@
   {
    "name": "Slugma",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -9278,7 +9278,7 @@
   {
    "name": "Dedenne",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9292,7 +9292,7 @@
   {
    "name": "Deino",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -9321,7 +9321,7 @@
   {
    "name": "Chingling",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -9335,7 +9335,7 @@
   {
    "name": "Drilbur",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -9364,7 +9364,7 @@
   {
    "name": "Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9378,7 +9378,7 @@
   {
    "name": "Regirock",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -9405,7 +9405,7 @@
   {
    "name": "Trevenant",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9419,7 +9419,7 @@
   {
    "name": "Alolan Sandslash",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -9433,7 +9433,7 @@
   {
    "name": "Machoke",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9447,7 +9447,7 @@
   {
    "name": "Meowstic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9461,7 +9461,7 @@
   {
    "name": "Masquerain",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -9475,7 +9475,7 @@
   {
    "name": "Amoonguss",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -9489,7 +9489,7 @@
   {
    "name": "Smoochum",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -9503,7 +9503,7 @@
   {
    "name": "Electrike",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -9517,7 +9517,7 @@
   {
    "name": "Ambipom",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -9531,7 +9531,7 @@
   {
    "name": "Sentret",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -9545,7 +9545,7 @@
   {
    "name": "Ivysaur",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9559,7 +9559,7 @@
   {
    "name": "Swablu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -9588,7 +9588,7 @@
   {
    "name": "Klefki",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9602,7 +9602,7 @@
   {
    "name": "Crabrawler",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9616,7 +9616,7 @@
   {
    "name": "Avalugg",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9630,7 +9630,7 @@
   {
    "name": "Mega Pidgeot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -9644,7 +9644,7 @@
   {
    "name": "Dandy Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -9658,7 +9658,7 @@
   {
    "name": "Type: Null",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9672,7 +9672,7 @@
   {
    "name": "Walrein",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -9686,7 +9686,7 @@
   {
    "name": "Shellder",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9700,7 +9700,7 @@
   {
    "name": "Zygarde 10% Forme",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -9714,7 +9714,7 @@
   {
    "name": "Oranguru",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9728,7 +9728,7 @@
   {
    "name": "Gastly",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9742,7 +9742,7 @@
   {
    "name": "Charjabug",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9756,7 +9756,7 @@
   {
    "name": "Electabuzz",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9770,7 +9770,7 @@
   {
    "name": "Dragalge",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9784,7 +9784,7 @@
   {
    "name": "Chinchou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -9798,7 +9798,7 @@
   {
    "name": "Gumshoos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9812,7 +9812,7 @@
   {
    "name": "Cradily",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -9826,7 +9826,7 @@
   {
    "name": "Cinccino",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -9840,7 +9840,7 @@
   {
    "name": "Sandile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -9854,7 +9854,7 @@
   {
    "name": "Rhyhorn",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -9868,7 +9868,7 @@
   {
    "name": "Togedemaru",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -9897,7 +9897,7 @@
   {
    "name": "Jellicent",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -9911,7 +9911,7 @@
   {
    "name": "Purugly",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -9925,7 +9925,7 @@
   {
    "name": "Forretress",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -9954,7 +9954,7 @@
   {
    "name": "Helioptile",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -9968,7 +9968,7 @@
   {
    "name": "Simisage",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10010,7 +10010,7 @@
   {
    "name": "Dusk Mane Necrozma",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10024,7 +10024,7 @@
   {
    "name": "Toucannon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -10038,7 +10038,7 @@
   {
    "name": "Drowzee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10052,7 +10052,7 @@
   {
    "name": "Cranidos",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -10081,7 +10081,7 @@
   {
    "name": "Dawn Wings Necrozma",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10095,7 +10095,7 @@
   {
    "name": "Noctowl",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10109,7 +10109,7 @@
   {
    "name": "Hitmonlee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10123,7 +10123,7 @@
   {
    "name": "Pineco",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10152,7 +10152,7 @@
   {
    "name": "Ponyta",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10166,7 +10166,7 @@
   {
    "name": "Pikipek",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -10180,7 +10180,7 @@
   {
    "name": "Magcargo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10194,7 +10194,7 @@
   {
    "name": "Throh",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10208,7 +10208,7 @@
   {
    "name": "Heatmor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10222,7 +10222,7 @@
   {
    "name": "Salandit",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -10249,7 +10249,7 @@
   {
    "name": "UB-03 Lighting - Xurkitree",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -10263,7 +10263,7 @@
   {
    "name": "Zigzagoon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -10277,7 +10277,7 @@
   {
    "name": "Grimer",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10306,7 +10306,7 @@
   {
    "name": "Minior Green",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10320,7 +10320,7 @@
   {
    "name": "Trapinch",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -10334,7 +10334,7 @@
   {
    "name": "Hippopotas",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -10348,7 +10348,7 @@
   {
    "name": "Plusle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -10362,7 +10362,7 @@
   {
    "name": "Servine",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10376,7 +10376,7 @@
   {
    "name": "Doduo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10405,7 +10405,7 @@
   {
    "name": "Unown",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10419,7 +10419,7 @@
   {
    "name": "Axew",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10448,7 +10448,7 @@
   {
    "name": "Lumineon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -10462,7 +10462,7 @@
   {
    "name": "Inkay",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -10476,7 +10476,7 @@
   {
    "name": "Mega Aerodactyl",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -10490,7 +10490,7 @@
   {
    "name": "Mega Camerupt",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -10504,7 +10504,7 @@
   {
    "name": "Kyurem",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10518,7 +10518,7 @@
   {
    "name": "Meloetta-Pirouette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10545,7 +10545,7 @@
   {
    "name": "Clauncher",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -10559,7 +10559,7 @@
   {
    "name": "Pikachu Pop Star",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10573,7 +10573,7 @@
   {
    "name": "Remoraid",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10587,7 +10587,7 @@
   {
    "name": "Golem",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10601,7 +10601,7 @@
   {
    "name": "Old School Tauros",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10615,7 +10615,7 @@
   {
    "name": "Leavanny",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10629,7 +10629,7 @@
   {
    "name": "Wynaut",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -10643,7 +10643,7 @@
   {
    "name": "Minior Yellow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10657,7 +10657,7 @@
   {
    "name": "Pikachu Libre",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10671,7 +10671,7 @@
   {
    "name": "Qwilfish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10685,7 +10685,7 @@
   {
    "name": "Snubbull",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10699,7 +10699,7 @@
   {
    "name": "Alolan Persian",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10713,7 +10713,7 @@
   {
    "name": "Munna",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10742,7 +10742,7 @@
   {
    "name": "Sigilyph",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10756,7 +10756,7 @@
   {
    "name": "Hoothoot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10770,7 +10770,7 @@
   {
    "name": "Camerupt",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -10784,7 +10784,7 @@
   {
    "name": "Sealeo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -10813,7 +10813,7 @@
   {
    "name": "Beautifly",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -10827,7 +10827,7 @@
   {
    "name": "Magnemite",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10841,7 +10841,7 @@
   {
    "name": "Stufful",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -10855,7 +10855,7 @@
   {
    "name": "Mr. Mime",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10869,7 +10869,7 @@
   {
    "name": "Alolan Muk",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -10883,7 +10883,7 @@
   {
    "name": "Bibarel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -10897,7 +10897,7 @@
   {
    "name": "Magmortar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -10926,7 +10926,7 @@
   {
    "name": "Mienshao",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -10940,7 +10940,7 @@
   {
    "name": "Lickitung",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -10954,7 +10954,7 @@
   {
    "name": "Shiinotic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -10968,7 +10968,7 @@
   {
    "name": "Rockruff",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -10982,7 +10982,7 @@
   {
    "name": "Tyrogue",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -10996,7 +10996,7 @@
   {
    "name": "Bruxish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11010,7 +11010,7 @@
   {
    "name": "Shiny Gyarados",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11024,7 +11024,7 @@
   {
    "name": "Tangela",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11038,7 +11038,7 @@
   {
    "name": "Vanillite",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11052,7 +11052,7 @@
   {
    "name": "Minior Orange",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11066,7 +11066,7 @@
   {
    "name": "Crustle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11080,7 +11080,7 @@
   {
    "name": "Carracosta",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11094,7 +11094,7 @@
   {
    "name": "Minior Violet",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11121,7 +11121,7 @@
   {
    "name": "Cherubi",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -11135,7 +11135,7 @@
   {
    "name": "Claydol",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -11149,7 +11149,7 @@
   {
    "name": "Raticate",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11163,7 +11163,7 @@
   {
    "name": "Torkoal",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -11177,7 +11177,7 @@
   {
    "name": "Metapod",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11191,7 +11191,7 @@
   {
    "name": "Dodrio",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11205,7 +11205,7 @@
   {
    "name": "Burmy Plant Cloak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -11244,7 +11244,7 @@
   {
    "name": "Team Mystic",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11258,7 +11258,7 @@
   {
    "name": "Mega Sharpedo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -11272,7 +11272,7 @@
   {
    "name": "Mega Kangaskhan",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -11286,7 +11286,7 @@
   {
    "name": "Quilladin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -11300,7 +11300,7 @@
   {
    "name": "Oricorio",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11314,7 +11314,7 @@
   {
    "name": "Corphish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -11328,7 +11328,7 @@
   {
    "name": "Crabominable",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11342,7 +11342,7 @@
   {
    "name": "Minior",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11356,7 +11356,7 @@
   {
    "name": "Lillipup",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11383,7 +11383,7 @@
   {
    "name": "Spewpa",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -11397,7 +11397,7 @@
   {
    "name": "Venomoth",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11411,7 +11411,7 @@
   {
    "name": "Sliggoo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -11425,7 +11425,7 @@
   {
    "name": "Mega Latias",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -11439,7 +11439,7 @@
   {
    "name": "Mudsdale",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11453,7 +11453,7 @@
   {
    "name": "Shelmet",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11467,7 +11467,7 @@
   {
    "name": "Seadra",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11481,7 +11481,7 @@
   {
    "name": "Rotom-Frost",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11495,7 +11495,7 @@
   {
    "name": "Binacle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -11509,7 +11509,7 @@
   {
    "name": "Yanma",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -11523,7 +11523,7 @@
   {
    "name": "Solgaleo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11537,7 +11537,7 @@
   {
    "name": "Grumpig",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -11551,7 +11551,7 @@
   {
    "name": "Simipour",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11580,7 +11580,7 @@
   {
    "name": "Seel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11594,7 +11594,7 @@
   {
    "name": "Huntail",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -11608,7 +11608,7 @@
   {
    "name": "Croconaw",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -11622,7 +11622,7 @@
   {
    "name": "Oricorio Pom-Pom Style",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11636,7 +11636,7 @@
   {
    "name": "Morelull",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11650,7 +11650,7 @@
   {
    "name": "Buneary",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -11664,7 +11664,7 @@
   {
    "name": "Bouffalant",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11678,7 +11678,7 @@
   {
    "name": "Petilil",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11692,7 +11692,7 @@
   {
    "name": "Skrelp",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -11721,7 +11721,7 @@
   {
    "name": "Bunnelby",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -11735,7 +11735,7 @@
   {
    "name": "Tynamo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11749,7 +11749,7 @@
   {
    "name": "Landorus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11763,7 +11763,7 @@
   {
    "name": "Summer Form Sawsbuck",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11777,7 +11777,7 @@
   {
    "name": "Spinarak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -11791,7 +11791,7 @@
   {
    "name": "Zweilous",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11805,7 +11805,7 @@
   {
    "name": "Landorus-Therian",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11819,7 +11819,7 @@
   {
    "name": "Cryogonal",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11833,7 +11833,7 @@
   {
    "name": "Old School Pidgeot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11847,7 +11847,7 @@
   {
    "name": "Hoopa Unbound",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -11861,7 +11861,7 @@
   {
    "name": "Loudred",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -11875,7 +11875,7 @@
   {
    "name": "Graveler",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -11904,7 +11904,7 @@
   {
    "name": "Mareanie",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -11918,7 +11918,7 @@
   {
    "name": "Heatran",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -11932,7 +11932,7 @@
   {
    "name": "Linoone",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -11946,7 +11946,7 @@
   {
    "name": "Pidove",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11960,7 +11960,7 @@
   {
    "name": "Druddigon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -11974,7 +11974,7 @@
   {
    "name": "Tyrunt",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -11988,7 +11988,7 @@
   {
    "name": "Wailmer",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12002,7 +12002,7 @@
   {
    "name": "Seedot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12031,7 +12031,7 @@
   {
    "name": "Combee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -12045,7 +12045,7 @@
   {
    "name": "Pansage",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12074,7 +12074,7 @@
   {
    "name": "Delcatty",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12088,7 +12088,7 @@
   {
    "name": "Eelektrik",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12102,7 +12102,7 @@
   {
    "name": "Conkeldurr",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12116,7 +12116,7 @@
   {
    "name": "Geodude",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -12130,7 +12130,7 @@
   {
    "name": "Nosepass",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12144,7 +12144,7 @@
   {
    "name": "Hariyama",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12158,7 +12158,7 @@
   {
    "name": "Boldore",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12172,7 +12172,7 @@
   {
    "name": "Jumpluff",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -12186,7 +12186,7 @@
   {
    "name": "Passimian",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -12200,7 +12200,7 @@
   {
    "name": "La Reine Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12229,7 +12229,7 @@
   {
    "name": "Lairon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12243,7 +12243,7 @@
   {
    "name": "Pumpkaboo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -12272,7 +12272,7 @@
   {
    "name": "UB-05 Glutton - Guzzlord",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -12301,7 +12301,7 @@
   {
    "name": "Voltorb",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -12315,7 +12315,7 @@
   {
    "name": "Winter Form Sawsbuck",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12359,7 +12359,7 @@
   {
    "name": "Larvesta",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12373,7 +12373,7 @@
   {
    "name": "UB-04 Blaster - Celesteela",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -12387,7 +12387,7 @@
   {
    "name": "Fletchling",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -12416,7 +12416,7 @@
   {
    "name": "Mantyke",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -12430,7 +12430,7 @@
   {
    "name": "Metang",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12444,7 +12444,7 @@
   {
    "name": "Solosis",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12473,7 +12473,7 @@
   {
    "name": "Autumn Form Sawsbuck",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12502,7 +12502,7 @@
   {
    "name": "Old School Arbok",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12531,7 +12531,7 @@
   {
    "name": "Gigalith",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12545,7 +12545,7 @@
   {
    "name": "Seaking",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -12559,7 +12559,7 @@
   {
    "name": "Old School Beedrill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12573,7 +12573,7 @@
   {
    "name": "Klink",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12602,7 +12602,7 @@
   {
    "name": "Gothita",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12646,7 +12646,7 @@
   {
    "name": "Beheeyem",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12660,7 +12660,7 @@
   {
    "name": "Magby",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -12674,7 +12674,7 @@
   {
    "name": "Archen",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12688,7 +12688,7 @@
   {
    "name": "Nidorino",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -12702,7 +12702,7 @@
   {
    "name": "Mime Jr.",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -12716,7 +12716,7 @@
   {
    "name": "Alolan Meowth",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12730,7 +12730,7 @@
   {
    "name": "Luxio",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -12744,7 +12744,7 @@
   {
    "name": "Pikachu PhD",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12758,7 +12758,7 @@
   {
    "name": "Snowy Castform",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12785,7 +12785,7 @@
   {
    "name": "Gothitelle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12799,7 +12799,7 @@
   {
    "name": "Goldeen",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -12828,7 +12828,7 @@
   {
    "name": "Spearow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -12852,7 +12852,7 @@
   {
    "name": "Tapu Lele",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -12866,7 +12866,7 @@
   {
    "name": "Oricorio Sensu Style",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12880,7 +12880,7 @@
   {
    "name": "Eternal Floette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12894,7 +12894,7 @@
   {
    "name": "Team Valor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -12908,7 +12908,7 @@
   {
    "name": "Lampent",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12922,7 +12922,7 @@
   {
    "name": "Blitzle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12936,7 +12936,7 @@
   {
    "name": "Nidoran-F",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -12950,7 +12950,7 @@
   {
    "name": "Makuhita",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -12964,7 +12964,7 @@
   {
    "name": "Phione",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -12978,7 +12978,7 @@
   {
    "name": "Tranquill",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -12992,7 +12992,7 @@
   {
    "name": "Dusclops",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -13006,7 +13006,7 @@
   {
    "name": "Vanillish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13020,7 +13020,7 @@
   {
    "name": "Nidorina",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -13034,7 +13034,7 @@
   {
    "name": "Sun Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13048,7 +13048,7 @@
   {
    "name": "Finneon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13090,7 +13090,7 @@
   {
    "name": "Budew",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13104,7 +13104,7 @@
   {
    "name": "Mega Mewtwo X",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -13118,7 +13118,7 @@
   {
    "name": "East Sea Gastrodon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13132,7 +13132,7 @@
   {
    "name": "Baltoy",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -13146,7 +13146,7 @@
   {
    "name": "Tapu Bulu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -13160,7 +13160,7 @@
   {
    "name": "Bounsweet",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -13174,7 +13174,7 @@
   {
    "name": "Unfezant",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13203,7 +13203,7 @@
   {
    "name": "Weepinbell",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -13226,7 +13226,7 @@
   {
    "name": "Azelf",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13240,7 +13240,7 @@
   {
    "name": "Mandibuzz",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13269,7 +13269,7 @@
   {
    "name": "Carnivine",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13283,7 +13283,7 @@
   {
    "name": "Stunky",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13297,7 +13297,7 @@
   {
    "name": "Minior Red",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13311,7 +13311,7 @@
   {
    "name": "Whismur",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -13340,7 +13340,7 @@
   {
    "name": "Deoxys Speed",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13354,7 +13354,7 @@
   {
    "name": "Thundurus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13383,7 +13383,7 @@
   {
    "name": "Fletchinder",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -13412,7 +13412,7 @@
   {
    "name": "Bergmite",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -13426,7 +13426,7 @@
   {
    "name": "Silcoon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -13455,7 +13455,7 @@
   {
    "name": "Tornadus",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13484,7 +13484,7 @@
   {
    "name": "Patrat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13498,7 +13498,7 @@
   {
    "name": "Elgyem",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13527,7 +13527,7 @@
   {
    "name": "Wishiwashi School Form",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13541,7 +13541,7 @@
   {
    "name": "Cubchoo",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13555,7 +13555,7 @@
   {
    "name": "Fancy Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13569,7 +13569,7 @@
   {
    "name": "Yellow Flower Florges",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13583,7 +13583,7 @@
   {
    "name": "Orange Flower Floette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13612,7 +13612,7 @@
   {
    "name": "Comfey",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -13626,7 +13626,7 @@
   {
    "name": "Female Frillish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13640,7 +13640,7 @@
   {
    "name": "Alolan Golem",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13654,7 +13654,7 @@
   {
    "name": "Purrloin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13696,7 +13696,7 @@
   {
    "name": "Ferroseed",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13710,7 +13710,7 @@
   {
    "name": "Shelgon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -13724,7 +13724,7 @@
   {
    "name": "Hoppip",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -13738,7 +13738,7 @@
   {
    "name": "Turtonator",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -13762,7 +13762,7 @@
   {
    "name": "Gothorita",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13804,7 +13804,7 @@
   {
    "name": "Volcanion",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -13818,7 +13818,7 @@
   {
    "name": "Dewpider",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -13857,7 +13857,7 @@
   {
    "name": "Victreebel",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -13871,7 +13871,7 @@
   {
    "name": "Prinplup",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13900,7 +13900,7 @@
   {
    "name": "Gabite",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13914,7 +13914,7 @@
   {
    "name": "Bonsly",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -13928,7 +13928,7 @@
   {
    "name": "Watchog",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13942,7 +13942,7 @@
   {
    "name": "Autumn Form Deerling",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -13971,7 +13971,7 @@
   {
    "name": "Cottonee",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -13985,7 +13985,7 @@
   {
    "name": "Gulpin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -13999,7 +13999,7 @@
   {
    "name": "Pawniard",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14028,7 +14028,7 @@
   {
    "name": "Blue-Striped Basculin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14042,7 +14042,7 @@
   {
    "name": "Swoobat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14082,7 +14082,7 @@
   {
    "name": "Mega Latios",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Megas"
    ],
    "class": [
@@ -14111,7 +14111,7 @@
   {
    "name": "UB-07 Assembly - Stakataka",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -14125,7 +14125,7 @@
   {
    "name": "Vibrava",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -14154,7 +14154,7 @@
   {
    "name": "Winter Form Deerling",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14183,7 +14183,7 @@
   {
    "name": "Wormadam Trash Cloak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14197,7 +14197,7 @@
   {
    "name": "White Flower Flabebe",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14211,7 +14211,7 @@
   {
    "name": "UB-08 Burst - Blacephalon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -14225,7 +14225,7 @@
   {
    "name": "Ledyba",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Johto"
    ],
    "class": [
@@ -14254,7 +14254,7 @@
   {
    "name": "Deoxys Defense",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14268,7 +14268,7 @@
   {
    "name": "Illumise",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -14282,7 +14282,7 @@
   {
    "name": "Krokorok",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14311,7 +14311,7 @@
   {
    "name": "Female Jellicent",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14325,7 +14325,7 @@
   {
    "name": "Venipede",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14354,7 +14354,7 @@
   {
    "name": "Gurdurr",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14383,7 +14383,7 @@
   {
    "name": "Tornadus-Therian",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14397,7 +14397,7 @@
   {
    "name": "Happiny",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -14411,7 +14411,7 @@
   {
    "name": "Pignite",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14438,7 +14438,7 @@
   {
    "name": "Glameow",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -14452,7 +14452,7 @@
   {
    "name": "Pikachu Belle",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14494,7 +14494,7 @@
   {
    "name": "Cosmoem",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -14523,7 +14523,7 @@
   {
    "name": "Pansear",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14537,7 +14537,7 @@
   {
    "name": "Tentacool",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -14579,7 +14579,7 @@
   {
    "name": "Tundra Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14603,7 +14603,7 @@
   {
    "name": "Sunshine Cherrim",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14617,7 +14617,7 @@
   {
    "name": "Shuppet",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -14631,7 +14631,7 @@
   {
    "name": "Machop",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -14645,7 +14645,7 @@
   {
    "name": "Anorith",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -14659,7 +14659,7 @@
   {
    "name": "Summer Form Deerling",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14673,7 +14673,7 @@
   {
    "name": "Kricketot",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -14715,7 +14715,7 @@
   {
    "name": "Wormadam Sandy Cloak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14744,7 +14744,7 @@
   {
    "name": "Swanna",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -14758,7 +14758,7 @@
   {
    "name": "Alolan Grimer",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14787,7 +14787,7 @@
   {
    "name": "Sunny Castform",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14816,7 +14816,7 @@
   {
    "name": "Skorupi",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -14871,7 +14871,7 @@
   {
    "name": "Alolan Diglett",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14885,7 +14885,7 @@
   {
    "name": "Nincada",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -14899,7 +14899,7 @@
   {
    "name": "Diamond Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -14928,7 +14928,7 @@
   {
    "name": "Staravia",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -14942,7 +14942,7 @@
   {
    "name": "Gorebyss",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -14986,7 +14986,7 @@
   {
    "name": "Rufflet",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15000,7 +15000,7 @@
   {
    "name": "Staryu",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kanto"
    ],
    "class": [
@@ -15029,7 +15029,7 @@
   {
    "name": "Thundurus-Therian",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15058,7 +15058,7 @@
   {
    "name": "Alolan Raticate",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15085,7 +15085,7 @@
   {
    "name": "Barboach",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -15112,7 +15112,7 @@
   {
    "name": "Pok Ball Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15126,7 +15126,7 @@
   {
    "name": "Pharaoh Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15155,7 +15155,7 @@
   {
    "name": "Karrablast",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15169,7 +15169,7 @@
   {
    "name": "Star Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15183,7 +15183,7 @@
   {
    "name": "Terrakion",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15212,7 +15212,7 @@
   {
    "name": "Carvanha",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -15226,7 +15226,7 @@
   {
    "name": "Yellow Flower Flabebe",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15240,7 +15240,7 @@
   {
    "name": "Debutante Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15269,7 +15269,7 @@
   {
    "name": "Mudbray",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -15283,7 +15283,7 @@
   {
    "name": "Savanna Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15312,7 +15312,7 @@
   {
    "name": "Cascoon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -15326,7 +15326,7 @@
   {
    "name": "Rainy Castform",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15340,7 +15340,7 @@
   {
    "name": "Volbeat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -15377,7 +15377,7 @@
   {
    "name": "Scatterbug",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Kalos"
    ],
    "class": [
@@ -15406,7 +15406,7 @@
   {
    "name": "Grubbin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -15435,7 +15435,7 @@
   {
    "name": "Hakamo-o",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -15449,7 +15449,7 @@
   {
    "name": "Bronzor",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Sinnoh"
    ],
    "class": [
@@ -15478,7 +15478,7 @@
   {
    "name": "Dartrix",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -15507,7 +15507,7 @@
   {
    "name": "Klang",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15561,7 +15561,7 @@
   {
    "name": "Vullaby",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15575,7 +15575,7 @@
   {
    "name": "Alomomola",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15589,7 +15589,7 @@
   {
    "name": "White Flower Florges",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15633,7 +15633,7 @@
   {
    "name": "Woobat",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15647,7 +15647,7 @@
   {
    "name": "Tympole",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15661,7 +15661,7 @@
   {
    "name": "Lileep",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Hoenn"
    ],
    "class": [
@@ -15675,7 +15675,7 @@
   {
    "name": "Panpour",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15689,7 +15689,7 @@
   {
    "name": "Timburr",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15703,7 +15703,7 @@
   {
    "name": "Whirlipede",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15717,7 +15717,7 @@
   {
    "name": "Basculin",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15731,7 +15731,7 @@
   {
    "name": "Duosion",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15745,7 +15745,7 @@
   {
    "name": "Frillish",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Unova"
    ],
    "class": [
@@ -15759,7 +15759,7 @@
   {
    "name": "Trumbeak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Alola"
    ],
    "class": [
@@ -15773,7 +15773,7 @@
   {
    "name": "Female Pyroar",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15787,7 +15787,7 @@
   {
    "name": "Archipelago Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15801,7 +15801,7 @@
   {
    "name": "Elegant Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15815,7 +15815,7 @@
   {
    "name": "Continental Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15829,7 +15829,7 @@
   {
    "name": "Garden Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15843,7 +15843,7 @@
   {
    "name": "High Plains Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15857,7 +15857,7 @@
   {
    "name": "Icy Snow Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15871,7 +15871,7 @@
   {
    "name": "Jungle Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15885,7 +15885,7 @@
   {
    "name": "Marine Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15899,7 +15899,7 @@
   {
    "name": "Monsoon Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15913,7 +15913,7 @@
   {
    "name": "River Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15927,7 +15927,7 @@
   {
    "name": "Sandstorm Pattern Vivillon",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15941,7 +15941,7 @@
   {
    "name": "Blue Flower Flabebe",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15955,7 +15955,7 @@
   {
    "name": "Orange Flower Flabebe",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15969,7 +15969,7 @@
   {
    "name": "Blue Flower Floette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15983,7 +15983,7 @@
   {
    "name": "White Flower Floette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -15997,7 +15997,7 @@
   {
    "name": "Yellow Flower Floette",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16011,7 +16011,7 @@
   {
    "name": "Blue Flower Florges",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16025,7 +16025,7 @@
   {
    "name": "Orange Flower Florges",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16039,7 +16039,7 @@
   {
    "name": "Heart Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16053,7 +16053,7 @@
   {
    "name": "Kabuki Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16067,7 +16067,7 @@
   {
    "name": "Matron Trim Furfrou",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16081,7 +16081,7 @@
   {
    "name": "Oricorio Pa'u Style",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16095,7 +16095,7 @@
   {
    "name": "Burmy Trash Cloak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16109,7 +16109,7 @@
   {
    "name": "Burmy Sandy Cloak",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16123,7 +16123,7 @@
   {
    "name": "Alolan Geodude",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
@@ -16137,7 +16137,7 @@
   {
    "name": "Alolan Graveler",
    "categories": [
-    "Pok\\u00E9mon Only",
+    "Pok\u00e9mon Only",
     "Miscellaneous"
    ],
    "class": [
